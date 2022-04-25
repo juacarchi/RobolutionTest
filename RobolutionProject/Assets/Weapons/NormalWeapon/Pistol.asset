@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea7e574d2a097c54da329312a3bb337b, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  weaponStats:
+  - {fileID: 11400000, guid: 0812eafe49afa024694163b858e07905, type: 2}
+  - {fileID: 11400000, guid: 314091d0dc7e79049982fca617b04ff6, type: 2}
+  - {fileID: 11400000, guid: d3236098e38ed6b4aa81617bc3e7dd57, type: 2}
+  currentLevel: 0
+  prefabWeapon: {fileID: 4576869109590588869, guid: 9e727287d75dcdb489453de18237d7c5, type: 3}
+  bulletPrefab: {fileID: 6816500097198665272, guid: cb11f0f3943c84644968c4feb4e7e3b5, type: 3}
+  typeWeapon: 0
+  spriteWeapon: {fileID: 3684277651814214897, guid: a921b6ed6f15aee47866c57b85d511cb, type: 3}
+  isCharged: 1
+  weaponName: Pistola
+  tag: NormalBullet
+  ammo: 8
+  timeReload: 1

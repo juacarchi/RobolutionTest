@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 103991b82a64b4945a30eb462a4ed9fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2576510328450815694
+    second: bala-spritesheet2_0
+  - first:
+      213: 8176750432248561562
+    second: bala-spritesheet2_1
+  - first:
+      213: -7698924073210492904
+    second: bala-spritesheet2_2
+  - first:
+      213: 6638645260728156948
+    second: bala-spritesheet2_3
+  - first:
+      213: 3438995461271719153
+    second: bala-spritesheet2_4
+  - first:
+      213: -6092874955471935011
+    second: bala-spritesheet2_5
+  - first:
+      213: -1543978297965525306
+    second: bala-spritesheet2_6
+  - first:
+      213: 5243572326253601204
+    second: bala-spritesheet2_7
+  - first:
+      213: -8525719441727108434
+    second: bala-spritesheet2_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bala-spritesheet2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec69f672e7a91c320800000000000000
+      internalID: 2576510328450815694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bala-spritesheet2_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f72332237a97170800000000000000
+      internalID: 8176750432248561562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bala-spritesheet2_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 104
+        height: 172
+      alignment: 9
+      pivot: {x: 0.66833675, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818c597985de72590800000000000000
+      internalID: -7698924073210492904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bala-spritesheet2_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 104
+        height: 172
+      alignment: 9
+      pivot: {x: 0.88380754, y: 0.49185708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413488b01b4312c50800000000000000
+      internalID: 6638645260728156948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bala-spritesheet2_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 104
+        height: 172
+      alignment: 9
+      pivot: {x: 0.88380724, y: 0.4837143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc0845c624c9bf20800000000000000
+      internalID: 3438995461271719153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bala-spritesheet2_5
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 104
+        height: 172
+      alignment: 9
+      pivot: {x: 0.7087373, y: 0.49592847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9a83a6282c17ba0800000000000000
+      internalID: -6092874955471935011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bala-spritesheet2_6
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 0
+        width: 104
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5808011, y: 0.5081427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c64ad81befa29ae0800000000000000
+      internalID: -1543978297965525306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bala-spritesheet2_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 0
+        width: 104
+        height: 172
+      alignment: 9
+      pivot: {x: 0.63466936, y: 0.49592847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b12a64cf39e4c840800000000000000
+      internalID: 5243572326253601204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bala-spritesheet2_8
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 0
+        width: 104
+        height: 172
+      alignment: 9
+      pivot: {x: 0.6077353, y: 0.5162855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaac635c65f8ea980800000000000000
+      internalID: -8525719441727108434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 42849dd9e17e63e4e8356c073bb8a279
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fad4528779d50b4fa577d46d5060ad7, type: 3}
+  m_Name: EnemyData_Acuchillador
+  m_EditorClassIdentifier: 
+  nameEnemy: Acuchillador
+  healthMax: 180
+  fovDepth: 12
+  fovAngle: 45
+  alertRange: 1
+  turnBackHome: 0
+  patrol: 0
+  forgettingTime: 5
+  weapon: {fileID: 11400000, guid: 7788cad440343cd4582d2a9d140b58e3, type: 2}

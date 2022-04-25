@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7730791663631006079
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7730791663631006077}
+  - component: {fileID: 7730791663631006078}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7730791663631006077
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7730791663631006079}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7730791663631006078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7730791663631006079}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fea5703b2aa1fa47bd935374dd6c293, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelNumber: 0
+  worldNumber: 0
+  world1:
+  - {fileID: 8587529086502214880, guid: fab8fa36371685f419009b5cb41f3796, type: 3}
+  - {fileID: 2282722728055191365, guid: 2888de3e9fc098c4281199c3aef56d61, type: 3}
+  - {fileID: 6994158664678459206, guid: a74a193e6841ffc48acae4fc525ba9f4, type: 3}
+  - {fileID: 1389884441078775602, guid: ed3c155926eb6b54dac1efd715b17058, type: 3}
+  world2: []
+  actualStage: {fileID: 0}
+  damagePopUp: {fileID: 7045967822042564523, guid: 395e76cf743f67045afc6dff59a0a35e, type: 3}
+  targetCircunference: {fileID: 0}
+  circleCircunference: {fileID: 0}
+  numberWeaponSpace: 4
+  weaponsInPossesion:
+  - {fileID: 11400000, guid: 217c7c6955759a840bfef27b23222641, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  allWeapons:
+  - {fileID: 11400000, guid: 217c7c6955759a840bfef27b23222641, type: 2}
+  - {fileID: 11400000, guid: fc99322b865b4544daa9b276905a6b91, type: 2}
+  - {fileID: 11400000, guid: a681a5bfeb14be1429bd58f5755c62f2, type: 2}
+  - {fileID: 11400000, guid: 43d4d4876142c5a4ea6242e8c726671c, type: 2}
